@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.andreguedes" name="Andre Guedes" version="1.0.0" provider-name="Kodish Mc">
+  <requires>
+    <import addon="xbmc.python2" version="3.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+	
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+	
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Andre Guedes</summary>
+    <description lang="en">Canal do chargista Andre Guedes</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+	<assets>
+    <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+</addons>
