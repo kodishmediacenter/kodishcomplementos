@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.kpoplist" name="Coletanea Kpop" version="2.0" provider-name="Kodish Team">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+	
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+	
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Coletanea Kpop</summary>
+    <description lang="en">Conheça os melhores Kpop</description>
+    <platform>all</platform>
+    <forum></forum>
+	<assets>
+    <icon>icon.png</icon>
+    </assets>
+    <website></website>
+  </extension>
+</addon>
