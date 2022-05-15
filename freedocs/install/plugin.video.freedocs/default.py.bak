@@ -1,0 +1,24 @@
+# -*- coding: utf-8 -*- 
+import sys 
+import xbmcaddon, xbmcgui, xbmcplugin 
+import requests,json
+# Plugin Info
+
+ADDON_ID      = 'plugin.video.freedocs'
+REAL_SETTINGS = xbmcaddon.Addon(id=ADDON_ID)
+ADDON_NAME    = REAL_SETTINGS.getAddonInfo('name')
+ICON          = REAL_SETTINGS.getAddonInfo('icon')
+FANART        = REAL_SETTINGS.getAddonInfo('fanart')
+
+YOUTUBE_CHANNEL_ID1=  "n/a"
+icon1 = "https://yt3.ggpht.com/zsVAKjOhubWpAZvCbgyJAu9gk9uCCUHFe0iQc1mRXt7rXGT_AeyiieQ4op9JfXm6e9TCC4tFbw=s256-c-k-c0x00ffffff-no-rj"
+def addDir(title, url):
+    liz=xbmcgui.ListItem(title)
+    liz.setProperty('IsPlayable', 'false')
+    liz.setInfo(type="Video", infoLabels={"label":title,"title":title} )
+    liz.setArt({'thumb':icon1,'fanart':FANART})
+    xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]),url=url,listitem=liz,isFolder=True)
+
+if __name__ == '__main__':
+    addDir(title = "Free Documentary",url = "plugin://plugin.video.youtube/n/a/",)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]),cacheToDisc=True)
