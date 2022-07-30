@@ -1,0 +1,674 @@
+# Addon Name: BR Play
+# Addon id: plugin.video.brplay
+# Addon Provider: brplayer
+msgid ""
+msgstr ""
+
+msgctxt "#31200"
+msgid "Canais Globo"
+msgstr "Canais Globo"
+
+msgctxt "#31110"
+msgid "User"
+msgstr "Usuário"
+
+msgctxt "#31109"
+msgid "Password"
+msgstr "Senha"
+
+msgctxt "#31210"
+msgid "TV Provider"
+msgstr "Operador de TV"
+
+msgctxt "#31208"
+msgid "National"
+msgstr "Nacional"
+
+msgctxt "#31209"
+msgid "Geo Location"
+msgstr "Localização"
+
+msgctxt "#31211"
+msgid "Use Custom Affiliate"
+msgstr "Usar outra afiliada"
+
+msgctxt "#31100"
+msgid "Globo Play"
+msgstr "Globo Play"
+
+msgctxt "#31101"
+msgid "Enable Globo Play"
+msgstr "Habilitar Globo Play"
+
+msgctxt "#31111"
+msgid "Affiliate"
+msgstr "Afiliada"
+
+msgctxt "#31112"
+msgid "Rio de Janeiro"
+msgstr "Rio de Janeiro"
+
+msgctxt "#31113"
+msgid "Sao Paulo"
+msgstr "São Paulo"
+
+msgctxt "#31114"
+msgid "Brasilia"
+msgstr "Brasília"
+
+msgctxt "#31115"
+msgid "Belo Horizonte"
+msgstr "Belo Horizonte"
+
+msgctxt "#31116"
+msgid "All"
+msgstr "Todas"
+
+msgctxt "#31108"
+msgid "Region"
+msgstr "Região"
+
+msgctxt "#31117"
+msgid "Recife"
+msgstr "Recife"
+
+msgctxt "#31118"
+msgid "Salvador"
+msgstr "Salvador"
+
+msgctxt "#31119"
+msgid "Fortaleza"
+msgstr "Fortaleza"
+
+msgctxt "#31120"
+msgid "Aracaju"
+msgstr "Aracajú"
+
+msgctxt "#31121"
+msgid "Maceio"
+msgstr "Maceió"
+
+msgctxt "#31122"
+msgid "Cuiaba"
+msgstr "Cuiabá"
+
+msgctxt "#31123"
+msgid "Porto Alegre"
+msgstr "Porto Alegre"
+
+msgctxt "#31124"
+msgid "Florianopolis"
+msgstr "Florianópolis"
+
+msgctxt "#31125"
+msgid "Curitiba"
+msgstr "Curitiba"
+
+msgctxt "#31126"
+msgid "Vitoria"
+msgstr "Vitória"
+
+msgctxt "#31127"
+msgid "Goiania"
+msgstr "Goiânia"
+
+msgctxt "#31128"
+msgid "Campo Grande"
+msgstr "Campo Grande"
+
+msgctxt "#31129"
+msgid "Manaus"
+msgstr "Manaus"
+
+msgctxt "#31130"
+msgid "Belem"
+msgstr "Belém"
+
+msgctxt "#31131"
+msgid "Macapa"
+msgstr "Macapá"
+
+msgctxt "#31132"
+msgid "Palmas"
+msgstr "Palmas"
+
+msgctxt "#31133"
+msgid "Rio Branco"
+msgstr "Rio Branco"
+
+msgctxt "#31134"
+msgid "Teresina"
+msgstr "Teresina"
+
+msgctxt "#31135"
+msgid "Sao Luis"
+msgstr "São Luís"
+
+msgctxt "#31136"
+msgid "Joao Pessoa"
+msgstr "João Pessoa"
+
+msgctxt "#31137"
+msgid "Natal"
+msgstr "Natal"
+
+msgctxt "#31138"
+msgid "Boa Vista"
+msgstr "Boa Vista"
+
+msgctxt "#31139"
+msgid "Porto Velho"
+msgstr "Porto Velho"
+
+msgctxt "#31003"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "#31004"
+msgid "Use Proxy"
+msgstr "Usar Proxy"
+
+msgctxt "#32003"
+msgid "Authentication Error. Invalid user or password."
+msgstr "Erro na authenticação. Usuário ou senha inválidos."
+
+msgctxt "#32001"
+msgid "Live TV"
+msgstr "Canais ao Vivo"
+
+msgctxt "#32002"
+msgid "On Demand"
+msgstr "Canais sob Demanda"
+
+msgctxt "#32005"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "#32004"
+msgid "Live"
+msgstr "Ao Vivo"
+
+msgctxt "#32310"
+msgid "General"
+msgstr "Geral"
+
+msgctxt "#32346"
+msgid "Accounts"
+msgstr "Contas"
+
+msgctxt "#32010"
+msgid "Search"
+msgstr "Busca"
+
+msgctxt "#32056"
+msgid "Are you sure?"
+msgstr "Tem certeza?"
+
+msgctxt "#32057"
+msgid "Process Complete"
+msgstr "Processo Concluído"
+
+msgctxt "#32502"
+msgid "Resume from %s"
+msgstr "Continuar a partir de %s"
+
+msgctxt "#32503"
+msgid "Resume"
+msgstr "Continuar"
+
+msgctxt "#32072"
+msgid "Refresh"
+msgstr "Atualizar"
+
+msgctxt "#32073"
+msgid "Add to Globosat favorites"
+msgstr "Adicionar aos Favoritos do Globosat"
+
+msgctxt "#32074"
+msgid "Remove from Globosat favorites"
+msgstr "Remover dos Favoritos do Globosat"
+
+msgctxt "#32075"
+msgid "Add to Globosat Watch Later"
+msgstr "Adicionar ao Assistir Mais Tarde do Globosat"
+
+msgctxt "#32076"
+msgid "Remove from Globosat Watch Later"
+msgstr "Remover do Assistir Mais Tarde do Globosat"
+
+msgctxt "#32080"
+msgid "Featured"
+msgstr "Destaques"
+
+msgctxt "#32090"
+msgid "Favorites"
+msgstr "Favoritos Globosat"
+
+msgctxt "#32095"
+msgid "Watch Later"
+msgstr "Assistir Mais Tarde Globosat"
+
+msgctxt "#32096"
+msgid "Watch History"
+msgstr "Histórico de Visualizações Globosat"
+
+msgctxt "#33001"
+msgid "Streaming"
+msgstr "Streaming"
+
+msgctxt "#33101"
+msgid "Player Mode"
+msgstr "Modo de Reprodução"
+
+msgctxt "#33102"
+msgid "Adaptive"
+msgstr "Adaptativo"
+
+msgctxt "#33103"
+msgid "Auto"
+msgstr "Automático"
+
+msgctxt "#33104"
+msgid "Manual"
+msgstr "Manual"
+
+msgctxt "#33105"
+msgid "Max"
+msgstr "Máxima"
+
+msgctxt "#33106"
+msgid "Medium"
+msgstr "Média"
+
+msgctxt "#33107"
+msgid "Low"
+msgstr "Mínima"
+
+msgctxt "#33200"
+msgid "Average Download Speed"
+msgstr "Média de Velocidade de Download"
+
+msgctxt "#33201"
+msgid "Proxy Type"
+msgstr "Tipo de Proxy"
+
+msgctxt "#33202"
+msgid "Downloader"
+msgstr "Downloader"
+
+msgctxt "#33203"
+msgid "Redirect"
+msgstr "Redirect"
+
+msgctxt "#33301"
+msgid "Show Full Videos Only"
+msgstr "Exibir apenas vídeos na íntegra"
+
+msgctxt "#33401"
+msgid "Enable Adult Content"
+msgstr "Exibir Conteúdo Adulto"
+
+msgctxt "#33402"
+msgid "Use Pagination"
+msgstr "Usar Paginação"
+
+msgctxt "#33403"
+msgid "Ignore Channel Authorization"
+msgstr "Ignorar Autorização de Canais"
+
+msgctxt "#33404"
+msgid "Show BBB channels"
+msgstr "Exibir canais do BBB"
+
+msgctxt "#33405"
+msgid "Show PFC Games"
+msgstr "Exibir jogos PFC"
+
+msgctxt "#33501"
+msgid "Clear Cache"
+msgstr "Limpar o Cache"
+
+msgctxt "#33502"
+msgid "Addon Maintenance"
+msgstr "Manutenção do Addon"
+
+msgctxt "#33503"
+msgid "Clear Credentials"
+msgstr "Limpar as Credenciais"
+
+msgctxt "#34004"
+msgid "More Videos"
+msgstr "Mais Vídeos"
+
+msgctxt "#34005"
+msgid "By Date"
+msgstr "Por data"
+
+msgctxt "#34006"
+msgid "Older Videos"
+msgstr "Vídeos Mais Antigos"
+
+msgctxt "#34007"
+msgid "More Videos"
+msgstr "Mais Vídeos"
+
+msgctxt "#34009"
+msgid "Select player mode:"
+msgstr "Escolha o modo de reprodução:"
+
+msgctxt "#34010"
+msgid "Pick the desired bandwidth:"
+msgstr "Escolha a Largura de Banda Desejada:"
+
+msgctxt "#34011"
+msgid "[I]- Featured -[/I]"
+msgstr "[I]- Destaques -[/I]"
+
+msgctxt "#34012"
+msgid "[I]- Most Watched -[/I]"
+msgstr "[I]- Mais Assistidos -[/I]"
+
+msgctxt "#34013"
+msgid "[I]- Keep Watching -[/I]"
+msgstr "[I]- Continue Assistindo -[/I]"
+
+msgctxt "#34014"
+msgid "[I]- Favorites -[/I]"
+msgstr "[I]- Favoritos -[/I]"
+
+msgctxt "#34015"
+msgid "[I]- Recent Videos -[/I]"
+msgstr "[I]- Vídeos Recentes -[/I]"
+
+msgctxt "#34100"
+msgid "Stream is not available"
+msgstr "Vídeo não disponível"
+
+msgctxt "#34101"
+msgid "Video Info Not Found"
+msgstr "Informações do Vídeo Não Encontrada"
+
+msgctxt "#34102"
+msgid "Video Resource Not Found"
+msgstr "Recursos do Vídeo Não Encontrados"
+
+msgctxt "#34103"
+msgid "Content is DRM encrypted you need Kodi Leia (18) or later wih inputstream.adaptive addon enabled"
+msgstr "Contúdo protegido por Gerenciamento Digital de Direitos (DRM), você precisa do Kodi Leia (18) ou superior com o addon inputstream.adaptive habilitado"
+
+msgctxt "#34104"
+msgid "Not Authorised"
+msgstr "Não Autorizado"
+
+msgctxt "#34105"
+msgid "Authentication Failed"
+msgstr "Falha na Autenticação"
+
+msgctxt "#34106"
+msgid "Local Programmes"
+msgstr "Programas Locais"
+
+msgctxt "#34107"
+msgid "4K - HDR"
+msgstr "4K - HDR"
+
+msgctxt "#34108"
+msgid "Enable Canais Globo"
+msgstr "Habilitar Canais Globo"
+
+msgctxt "#34109"
+msgid "Use Globoplay Credentials for Canais Globo"
+msgstr "Usar as credenciais Globoplay para o Canais Globo"
+
+msgctxt "#34110"
+msgid "Latitude"
+msgstr "Latitude"
+
+msgctxt "#34111"
+msgid "Longitude"
+msgstr "Longitude"
+
+msgctxt "#34112"
+msgid "Custom"
+msgstr "Personalizada"
+
+msgctxt "#34113"
+msgid "Enable Oi Play"
+msgstr "Habilitar Oi Play"
+
+msgctxt "#34114"
+msgid "Enable 4K when available"
+msgstr "Habilitar 4k UHD quando disponível"
+
+msgctxt "#34115"
+msgid "Enable HDR when available"
+msgstr "Habilitar HDR quando disponível"
+
+msgctxt "#34116"
+msgid "Enable high resolution images when available"
+msgstr "Habilitar imagens em alta resolução quando disponíveis"
+
+msgctxt "#34117"
+msgid "Enable InputStream.Adaptive"
+msgstr "Ativar InputStream.Adaptive"
+
+msgctxt "#34118"
+msgid "Prefer SmoothStreaming for DRM"
+msgstr "Preferir SmoothStreaming para conteúdos com DRM"
+
+msgctxt "#34119"
+msgid "Prefer PlayReady for DRM"
+msgstr "Preferir PlayReady para conteúdos com DRM"
+
+msgctxt "#34120"
+msgid "Prefer Dash over HLS"
+msgstr "Preferir Dash ao invés de HLS"
+
+msgctxt "#34121"
+msgid "Play multi part videos as playlist"
+msgstr "Reproduzir videos com múltiplas partes como uma playlist"
+
+msgctxt "#34122"
+msgid "Debug Log"
+msgstr "Registro de depuração"
+
+msgctxt "#34123"
+msgid "Enable TNT Play"
+msgstr "Habilitar TNT Play"
+
+msgctxt "#34124"
+msgid "Provider"
+msgstr "Operadora"
+
+msgctxt "#34125"
+msgid "ENG"
+msgstr "POR"
+
+msgctxt "#34126"
+msgid "All Genres"
+msgstr "Todos os Gêneros"
+
+msgctxt "#34127"
+msgid "Series"
+msgstr "Séries"
+
+msgctxt "#34128"
+msgid "Movies"
+msgstr "Filmes"
+
+
+msgctxt "#34129"
+msgid "Provider not implemented"
+msgstr "Provedor não implementado"
+
+msgctxt "#34130"
+msgid "Enable Now Online"
+msgstr "Habilitar Now Online"
+
+msgctxt "#34132"
+msgid "Highlights"
+msgstr "Destaques"
+
+msgctxt "#34133"
+msgid "Coming Soon"
+msgstr "Em Breve"
+
+msgctxt "#34134"
+msgid "History"
+msgstr "Histórico"
+
+msgctxt "#34135"
+msgid "Home"
+msgstr "Início"
+
+msgctxt "#34136"
+msgid "See More"
+msgstr "Veja Mais"
+
+msgctxt "#34137"
+msgid "Season"
+msgstr "Temporada"
+
+msgctxt "#34138"
+msgid "Advanced"
+msgstr "Avançado"
+
+msgctxt "#34139"
+msgid "Default Profile"
+msgstr "Perfil Padrão"
+
+msgctxt "#34140"
+msgid "Invalid credentials. Try again"
+msgstr "Dados inválidos. Tente novamente."
+
+msgctxt "#34141"
+msgid "No Search Results"
+msgstr "Nenhum resultado para a pesquisa"
+
+msgctxt "#34142"
+msgid "You may like..."
+msgstr "Você pode gostar..."
+
+msgctxt "#34143"
+msgid "Like"
+msgstr "Curtir"
+
+msgctxt "#34144"
+msgid "Dislike"
+msgstr "Desgostar"
+
+msgctxt "#34145"
+msgid "Remove Like"
+msgstr "Remover curtida"
+
+msgctxt "#34146"
+msgid "Remove Dislike"
+msgstr "Remover desgostar"
+
+msgctxt "#34147"
+msgid "Enable Globoplay + canais ao vivo"
+msgstr "Habilitar Globoplay + canais ao vivo"
+
+msgctxt "#34148"
+msgid "Enable SBT"
+msgstr "Habilitar SBT"
+
+msgctxt "#34149"
+msgid "Ignore Daylight Saving Time"
+msgstr "Ignorar Horário de Verão"
+
+msgctxt "#34150"
+msgid "Enable Pluto TV"
+msgstr "Habilitar Pluto TV"
+
+msgctxt "#34151"
+msgid "Excerpts"
+msgstr "Trechos"
+
+msgctxt "#34152"
+msgid "Most viewed"
+msgstr "Mais vistos de"
+
+msgctxt "#34153"
+msgid "Today"
+msgstr "Hoje"
+
+msgctxt "#34154"
+msgid "Yesterday"
+msgstr "Ontem"
+
+msgctxt "#34155"
+msgid "Most viewed"
+msgstr "Mais vistos"
+
+msgctxt "#34156"
+msgid "Continue watching"
+msgstr "Continue assistindo"
+
+msgctxt "#34157"
+msgid "Monday"
+msgstr "Segunda-feira"
+
+msgctxt "#34158"
+msgid "Tuesday"
+msgstr "Terça-feira"
+
+msgctxt "#34159"
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+msgctxt "#34160"
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+msgctxt "#34161"
+msgid "Friday"
+msgstr "Sexta-feira"
+
+msgctxt "#34162"
+msgid "Saturday"
+msgstr "Sábado"
+
+msgctxt "#34163"
+msgid "Sunday"
+msgstr "Domingo"
+
+msgctxt "#34164"
+msgid "Brazil"
+msgstr "Brasil"
+
+msgctxt "#34165"
+msgid "United Stated"
+msgstr "Estados Unidos"
+
+msgctxt "#34166"
+msgid "Portugal"
+msgstr "Portugal"
+
+msgctxt "#34167"
+msgid "Europe"
+msgstr "Europa"
+
+msgctxt "#34168"
+msgid "Brazil Beta"
+msgstr "Brasil Beta"
+
+msgctxt "#34169"
+msgid "Noveller Home"
+msgstr "Início Noveleiros"
+
+msgctxt "#34170"
+msgid "Categories"
+msgstr "Categorias"
+
+msgctxt "#34171"
+msgid "Contents"
+msgstr "Conteúdo"
+
+msgctxt "#34172"
+msgid "Enable VIX TV"
+msgstr "Habilitar VIX TV"
+
+msgctxt "#34173"
+msgid "API Domain"
+msgstr "Domínio da API"
