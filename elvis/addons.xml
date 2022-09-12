@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.elvisfilmes" name="Elvis Presley Filmes" version="1.0.0" provider-name="Kodish Team">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Elvis Presley Filmes</summary>
+    <description lang="en_GB">Addon de Filmes Elvis Presley com som original em Ingles e necessario instalar opensubtitles e alguns aguardar 15 min pois filme está Ok.ru</description>
+    <language>en</language>
+    <platform>all</platform>
+      <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+</addons>

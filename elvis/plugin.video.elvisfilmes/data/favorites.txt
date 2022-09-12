@@ -1,0 +1,52 @@
+[
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://www.youtube.com/watch?v=3i_e5KunThA",
+        "image": "https://image.tmdb.org/t/p/original/1fDNfFC0FPdwDTnVOrAQYVVmLrR.jpg",
+        "name": "Love Me Tender (1956)"
+    },
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://www.youtube.com/watch?v=3bgTAG9eUdw",
+        "image": "https://image.tmdb.org/t/p/original/AFKqEgg5NbY7iMUxUszSWDLgbx.jpg",
+        "name": "Loving You (1957)"
+    },
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://ok.ru/video/4055960586964",
+        "image": "https://image.tmdb.org/t/p/original/yOVMTuY5wgThgmfC88dmnF3DfWz.jpg",
+        "name": "Jailhouse Rock (1957)"
+    },
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://www.dailymotion.com/video/x88di8x",
+        "image": "https://image.tmdb.org/t/p/original/1JBAhHGjT8RKNWvSbvgKKMyL7zZ.jpg",
+        "name": "King Creole (1958) "
+    },
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://ok.ru/video/1377559120582",
+        "image": "https://image.tmdb.org/t/p/original/crFcwTHch2s5zjL1ZNm89SDwVdt.jpg",
+        "name": "Flaming Star (1960)"
+    },
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://ok.ru/video/695808035553",
+        "image": "https://www.themoviedb.org/t/p/original/ioaAp4uv5Wk4warkgJNbLGYo6oy.jpg",
+        "name": "Wild in the Country (1961)"
+    },
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://ok.ru/video/1258082798232",
+        "image": "https://image.tmdb.org/t/p/original/pBhd2giMkk9857mfygew6JyZjit.jpg",
+        "name": "Girls! Girls! Girls! (1962)"
+    },
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://ok.ru/video/574331292400",
+        "image": "https://image.tmdb.org/t/p/original/ep5FksS9M3ho59csuvObPgFwLng.jpg",
+        "name": "Viva Las Vegas (1964)"
+    },
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://ok.ru/video/572094876400",
+        "image": "https://image.tmdb.org/t/p/original/UW0sKsHpqihD8uck54jY7qzBfw.jpg",
+        "name": "Clambake (1967)"
+    },
+    {
+        "url": "plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://ok.ru/video/2328767433276",
+        "image": "https://image.tmdb.org/t/p/original/A7vhdG0sdz23pTt9eF8ZZZb17cp.jpg",
+        "name": "The Trouble with Girls (1969)"
+    }
+]
