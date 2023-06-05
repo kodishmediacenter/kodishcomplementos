@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.area51canal" name="Area 51 Canal" version="KDS1.0" provider-name="Kodish Team ">
+  <requires>
+    <import addon="xbmc.python2" version="3.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+ <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+    <summary lang="en">Area 51 Canal</summary>
+    <description lang="en">Canal sobre misterios ufologicos da Area 51 Canal</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+    <assets>
+    <icon>icon.jpg</icon>
+    </assets>
+ </extension>
+</addon>
+
+<addon id="plugin.video.netmovies" name="NetMovies" version="KDS1.0" provider-name="Kodish Team ">
+  <requires>
+    <import addon="xbmc.python2" version="3.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+ <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+    <summary lang="en">NetMovies</summary>
+    <description lang="en">Addon do canal Netmovies no Youtube</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+    <assets>
+    <icon>icon.jpg</icon>
+    </assets>
+ </extension>
+</addon>
+
+<addon id="plugin.video.now_music" name="Now Thats What I Call Music" version="9.0.1" provider-name="Catoal mod by Kodish Team">
+  <requires>
+
+	<trycatch>
+            <try>
+                <import addon="xbmc.python" version="3.0.0"/>
+            </try>
+
+            <catch>
+                <import addon="xbmc.python" version="2.24.0"/>
+            </catch>
+        </trycatch>
+
+
+       <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+ <extension point="xbmc.python.pluginsource" library="pulse.py">
+    <provides>audio video</provides>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+    <summary lang="en">Now Thats What I Call Music Collection</summary>
+    <description lang="en">Now Thats What I Call Music Collection</description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+    <assets>
+    <icon>icon.jpg</icon>
+    </assets>
+ </extension>
+</addon>
+</addons>

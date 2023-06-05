@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Configuración">
+		<setting id="youtube_usar" type="enum" values="YouTube Oficial|Duff You" label="Plugin a usar con los Videos" default="0"/>
+	</category>
+</settings>
