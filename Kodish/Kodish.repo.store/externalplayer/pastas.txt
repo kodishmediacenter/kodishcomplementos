@@ -1,0 +1,30 @@
+ O volume na unidade C ‚ Novo volume
+ O N£mero de S‚rie do Volume ‚ 80C0-8557
+
+ Pasta de C:\Setup-do-Mes\Kodi\portable_data\addons\Kodish.repo.store\externalplayer
+
+31/08/2022  18:36    <DIR>          .
+31/08/2022  17:22    <DIR>          ..
+31/08/2022  17:22    <DIR>          ArchosVideo
+31/08/2022  17:22    <DIR>          BSPlayerFree
+31/08/2022  17:22    <DIR>          DaroonPlayer
+31/08/2022  17:22    <DIR>          DicePlayerFree
+31/08/2022  17:22    <DIR>          DicePlayerPaid
+31/08/2022  17:22    <DIR>          JustPlayer
+31/08/2022  17:22    <DIR>          MoboplayerFree
+31/08/2022  17:22    <DIR>          mVideoplayerFree
+31/08/2022  17:22    <DIR>          MXPayerFree
+31/08/2022  17:22    <DIR>          MXPlayerPro
+31/08/2022  18:36                 0 pastas.txt
+31/08/2022  17:22    <DIR>          PotPlayer(windows)
+31/08/2022  17:22    <DIR>          RockPlayer
+31/08/2022  17:22    <DIR>          RockPlayerLite
+31/08/2022  17:22    <DIR>          SopCast
+31/08/2022  17:22    <DIR>          TPlayer
+31/08/2022  17:22    <DIR>          VLCPlayer
+31/08/2022  17:22    <DIR>          VLCwin32
+31/08/2022  17:22    <DIR>          VLCwin64
+31/08/2022  17:22    <DIR>          Vplater
+31/08/2022  17:22    <DIR>          WondersharePlayer
+               1 arquivo(s)              0 bytes
+              22 pasta(s)   70.227.955.712 bytes dispon¡veis
