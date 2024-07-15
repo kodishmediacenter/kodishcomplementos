@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.swenfilmes" name="Swen Filmes" version="KDS1.0" provider-name="Kodish Team">
+  <requires>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+ <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+    <summary lang="en">Swen Filmes</summary>
+    <description lang="en">Filmes Gratis </description>
+    <platform>all</platform>
+    <forum></forum>
+    <website></website>
+    <assets>
+    <icon>icon.jpg</icon>
+    </assets>
+ </extension>
+</addon>
