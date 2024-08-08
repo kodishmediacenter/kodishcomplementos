@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="Kodish.repo.store" name="[B]Kodish Store Onimatrix MX[/B]" version="6.5" provider-name="Kodish Team">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+    <import addon="script.module.six" version="1.0.0"/>
+    <import addon="script.module.kodi-six" version="0.1.3.1"/>
+    <import addon="script.module.simplecache" version="1.0.0"/>
+    <import addon="script.module.beautifulsoup4" version="4.3.2"/>
+    <import addon="script.module.requests" version="2.22.0+matrix.1"/>
+    <import addon="script.module.routing" version="0.2.3"/>
+    <import addon="script.module.simplejson"/>
+    <import addon="resource.language.pt_br"/>
+  </requires>
+	
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+	
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Kodish Store Onimatrix</summary>
+    <description lang="en">Addon Kodish Store Onimatrix MX a versão permite instalar addons da Kodish e seus Parceiros Agora com Suporte ao Kodi 20/21</description>
+    <platform>all</platform>
+    <forum></forum>
+	<assets>
+    <icon>icon.png</icon>
+	<fanart>fanart.jpg</fanart>
+    </assets>
+    <website></website>
+  </extension>
+</addon>
+</addons>
