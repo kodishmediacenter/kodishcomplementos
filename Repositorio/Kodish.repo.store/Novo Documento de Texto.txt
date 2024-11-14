@@ -1,0 +1,5 @@
+import xbmcgui
+
+operacao = xbmcgui.Dialog().input('[COLOR yellow]Calculadora[/COLOR]', '', type=xbmcgui.INPUT_ALPHANUM)
+xbmcgui.Dialog().ok('[B][COLOR red]Erro[/COLOR][/B]', 'Operação inválida: '+operacao)
+        

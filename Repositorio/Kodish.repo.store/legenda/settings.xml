@@ -1,0 +1,455 @@
+<settings version="2">
+    <setting id="search_fyyd" default="true" />
+    <setting id="provider_gpodder" default="true" />
+    <setting id="provider_nextcloud" default="true" />
+    <setting id="gpodder_import_all" default="true" />
+    <setting id="gpodder_import_new" default="true" />
+    <setting id="gpodder_download_as_opml" default="true" />
+    <setting id="nextcloud_sync_full" default="true" />
+    <setting id="nextcloud_sync_updates" default="true" />
+    <setting id="nextcloud_export" default="true" />
+    <setting id="opml_import" default="true" />
+    <setting id="opml_unassign" default="true" />
+    <setting id="opml_export" default="true" />
+    <setting id="remote_type" default="true">0</setting>
+    <setting id="gpodder_hostname" default="true">https://gpodder.net:443</setting>
+    <setting id="gpodder_username" default="true" />
+    <setting id="gpodder_password" default="true" />
+    <setting id="nextcloud_hostname" default="true">https://</setting>
+    <setting id="nextcloud_username" default="true" />
+    <setting id="nextcloud_password" default="true" />
+    <setting id="nextcloud_sync_interval" default="true">0</setting>
+    <setting id="nextcloud_sync_timestamp" default="true">0</setting>
+    <setting id="opml_file_0" default="true" />
+    <setting id="opml_file_1" default="true" />
+    <setting id="opml_file_2" default="true" />
+    <setting id="opml_file_3" default="true" />
+    <setting id="opml_file_4" default="true" />
+    <setting id="opml_file_5" default="true" />
+    <setting id="opml_file_6" default="true" />
+    <setting id="opml_file_7" default="true" />
+    <setting id="opml_file_8" default="true" />
+    <setting id="opml_file_9" default="true" />
+    <setting id="group_0_enable">true</setting>
+    <setting id="group_0_name">Podcasts Diversos</setting>
+    <setting id="group_0_rss_0_enable">true</setting>
+    <setting id="group_0_rss_0_name">Inteligencia Ltda</setting>
+    <setting id="group_0_rss_0_url">https://anchor.fm/s/6cf4d5a0/podcast/rss</setting>
+    <setting id="group_0_rss_0_icon">https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/18179848/18179848-1721247407879-0a543ae277254.jpg</setting>
+    <setting id="group_0_rss_1_enable">true</setting>
+    <setting id="group_0_rss_1_name">Linha Direta Podcast</setting>
+    <setting id="group_0_rss_1_url">https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/96e4e293-8c2b-4145-b0c1-aff800e67f72/340f4517-48f0-40eb-b052-aff800e681e8/podcast.rss</setting>
+    <setting id="group_0_rss_1_icon">https://www.omnycontent.com/d/programs/651a251e-06e1-47e0-9336-ac5a00f41628/96e4e293-8c2b-4145-b0c1-aff800e67f72/image.jpg?t=1683208758&amp;size=Large</setting>
+    <setting id="group_0_rss_2_enable">true</setting>
+    <setting id="group_0_rss_2_name">Nerdcast</setting>
+    <setting id="group_0_rss_2_url">https://api.jovemnerd.com.br/feed-nerdcast/</setting>
+    <setting id="group_0_rss_2_icon">https://jovemnerd.com.br/wp-content/themes/jovem-nerd-v9/assets/images/nc-feed.jpg</setting>
+    <setting id="group_0_rss_3_enable">true</setting>
+    <setting id="group_0_rss_3_name">Venus Podcast</setting>
+    <setting id="group_0_rss_3_url">https://anchor.fm/s/a5676948/podcast/rss</setting>
+    <setting id="group_0_rss_3_icon">https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/27650178/27650178-1675448890308-414cc921fb0b8.jpg</setting>
+    <setting id="group_0_rss_4_enable">true</setting>
+    <setting id="group_0_rss_4_name">Flow Podcast</setting>
+    <setting id="group_0_rss_4_url">https://anchor.fm/s/a5637400/podcast/rss</setting>
+    <setting id="group_0_rss_4_icon">https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/27647584/27647584-1667352019898-bb6b44bacbfe8.jpg</setting>
+    <setting id="group_0_rss_5_enable">true</setting>
+    <setting id="group_0_rss_5_name">Podpah</setting>
+    <setting id="group_0_rss_5_url">https://anchor.fm/s/57bd30d8/podcast/rss</setting>
+    <setting id="group_0_rss_5_icon">https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14620166/14620166-1642593926565-1ae82e237796d.jpg</setting>
+    <setting id="group_0_rss_6_enable">true</setting>
+    <setting id="group_0_rss_6_name">Poddelas</setting>
+    <setting id="group_0_rss_6_url">https://anchor.fm/s/58ef3fa0/podcast/rss</setting>
+    <setting id="group_0_rss_6_icon">https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14820744/14820744-1619636839711-43c762c7262f1.jpg</setting>
+    <setting id="group_0_rss_7_enable" default="true">false</setting>
+    <setting id="group_0_rss_7_name" default="true" />
+    <setting id="group_0_rss_7_url" default="true" />
+    <setting id="group_0_rss_7_icon" default="true" />
+    <setting id="group_0_rss_8_enable" default="true">false</setting>
+    <setting id="group_0_rss_8_name" default="true" />
+    <setting id="group_0_rss_8_url" default="true" />
+    <setting id="group_0_rss_8_icon" default="true" />
+    <setting id="group_0_rss_9_enable" default="true">false</setting>
+    <setting id="group_0_rss_9_name" default="true" />
+    <setting id="group_0_rss_9_url" default="true" />
+    <setting id="group_0_rss_9_icon" default="true" />
+    <setting id="group_1_enable">true</setting>
+    <setting id="group_1_name">Radio Globo</setting>
+    <setting id="group_1_rss_0_enable">true</setting>
+    <setting id="group_1_rss_0_name">#globo</setting>
+    <setting id="group_1_rss_0_url">http://audio.globoradio.globo.com/podcast/feed/479/globo</setting>
+    <setting id="group_1_rss_0_icon">https://estaticos.globoradio.globo.com/fotos/2021/03/a13579c8-61c3-4ad1-8497-cda50a42cc1c.jpg.3000x3000_q100_box-0%2C0%2C1080%2C1080_detail_upscale.jpg</setting>
+    <setting id="group_1_rss_1_enable">true</setting>
+    <setting id="group_1_rss_1_name">Audiocast</setting>
+    <setting id="group_1_rss_1_url">https://audio.globoradio.globo.com/podcast/feed/521/audiocast-20-anos-sem-tim-maia</setting>
+    <setting id="group_1_rss_1_icon">https://estaticos.globoradio.globo.com/fotos/2019/04/28200cfd-9eb5-4dfd-b064-8f4485f010bf.png.3000x3000_q100_box-0%2C0%2C1200%2C1200_detail_upscale.jpg</setting>
+    <setting id="group_1_rss_2_enable">true</setting>
+    <setting id="group_1_rss_2_name">Brasil em Copas: cinco jogos pra história</setting>
+    <setting id="group_1_rss_2_url">http://audio.globoradio.globo.com/podcast/feed/505/brasil-em-copas-cinco-jogos-pra-historia</setting>
+    <setting id="group_1_rss_2_icon">https://estaticos.globoradio.globo.com/fotos/2018/05/bc0e0914-7498-4c8c-b478-92c28bc26057.jpg.3000x3000_q100_box-0%2C0%2C1063%2C1063_detail_upscale.jpg</setting>
+    <setting id="group_1_rss_3_enable">true</setting>
+    <setting id="group_1_rss_3_name">Caderno Globo</setting>
+    <setting id="group_1_rss_3_url">http://audio.globoradio.globo.com/podcast/feed/571/caderno-globo</setting>
+    <setting id="group_1_rss_3_icon">https://estaticos.globoradio.globo.com/fotos/2020/09/cd2df6b9-6f51-42fa-8822-c89d956e3fa9.png.3000x3000_q100_box-0%2C0%2C1680%2C1680_detail_upscale.png</setting>
+    <setting id="group_1_rss_4_enable">true</setting>
+    <setting id="group_1_rss_4_name">Corações do Carnaval</setting>
+    <setting id="group_1_rss_4_url">http://audio.globoradio.globo.com/podcast/feed/922/coracoes-do-carnaval</setting>
+    <setting id="group_1_rss_4_icon">https://estaticos.globoradio.globo.com/fotos/2023/02/59409b2c-3d42-48ae-bba1-b630f68f1ff2.png.3000x3000_q100_box-0%2C0%2C1080%2C1080_detail_upscale.jpg</setting>
+    <setting id="group_1_rss_5_enable">true</setting>
+    <setting id="group_1_rss_5_name">Futebol à Manivela</setting>
+    <setting id="group_1_rss_5_url">http://audio.globoradio.globo.com/podcast/feed/395/futebol-manivela</setting>
+    <setting id="group_1_rss_5_icon">https://estaticos.globoradio.globo.com/fotos/2017/09/61944aed-f506-412a-93fe-b954decebaee.jpg.3000x3000_q100_box-0%2C0%2C8333%2C8333_detail_upscale.jpg</setting>
+    <setting id="group_1_rss_6_enable" default="true">false</setting>
+    <setting id="group_1_rss_6_name" default="true" />
+    <setting id="group_1_rss_6_url" default="true" />
+    <setting id="group_1_rss_6_icon" default="true" />
+    <setting id="group_1_rss_7_enable" default="true">false</setting>
+    <setting id="group_1_rss_7_name" default="true" />
+    <setting id="group_1_rss_7_url" default="true" />
+    <setting id="group_1_rss_7_icon" default="true" />
+    <setting id="group_1_rss_8_enable" default="true">false</setting>
+    <setting id="group_1_rss_8_name" default="true" />
+    <setting id="group_1_rss_8_url" default="true" />
+    <setting id="group_1_rss_8_icon" default="true" />
+    <setting id="group_1_rss_9_enable" default="true">false</setting>
+    <setting id="group_1_rss_9_name" default="true" />
+    <setting id="group_1_rss_9_url" default="true" />
+    <setting id="group_1_rss_9_icon" default="true" />
+    <setting id="group_2_enable" default="true">false</setting>
+    <setting id="group_2_name" default="true">Economie &amp; Commerce</setting>
+    <setting id="group_2_rss_0_enable" default="true">false</setting>
+    <setting id="group_2_rss_0_name" default="true" />
+    <setting id="group_2_rss_0_url" default="true" />
+    <setting id="group_2_rss_0_icon" default="true" />
+    <setting id="group_2_rss_1_enable" default="true">false</setting>
+    <setting id="group_2_rss_1_name" default="true" />
+    <setting id="group_2_rss_1_url" default="true" />
+    <setting id="group_2_rss_1_icon" default="true" />
+    <setting id="group_2_rss_2_enable" default="true">false</setting>
+    <setting id="group_2_rss_2_name" default="true" />
+    <setting id="group_2_rss_2_url" default="true" />
+    <setting id="group_2_rss_2_icon" default="true" />
+    <setting id="group_2_rss_3_enable" default="true">false</setting>
+    <setting id="group_2_rss_3_name" default="true" />
+    <setting id="group_2_rss_3_url" default="true" />
+    <setting id="group_2_rss_3_icon" default="true" />
+    <setting id="group_2_rss_4_enable" default="true">false</setting>
+    <setting id="group_2_rss_4_name" default="true" />
+    <setting id="group_2_rss_4_url" default="true" />
+    <setting id="group_2_rss_4_icon" default="true" />
+    <setting id="group_2_rss_5_enable" default="true">false</setting>
+    <setting id="group_2_rss_5_name" default="true" />
+    <setting id="group_2_rss_5_url" default="true" />
+    <setting id="group_2_rss_5_icon" default="true" />
+    <setting id="group_2_rss_6_enable" default="true">false</setting>
+    <setting id="group_2_rss_6_name" default="true" />
+    <setting id="group_2_rss_6_url" default="true" />
+    <setting id="group_2_rss_6_icon" default="true" />
+    <setting id="group_2_rss_7_enable" default="true">false</setting>
+    <setting id="group_2_rss_7_name" default="true" />
+    <setting id="group_2_rss_7_url" default="true" />
+    <setting id="group_2_rss_7_icon" default="true" />
+    <setting id="group_2_rss_8_enable" default="true">false</setting>
+    <setting id="group_2_rss_8_name" default="true" />
+    <setting id="group_2_rss_8_url" default="true" />
+    <setting id="group_2_rss_8_icon" default="true" />
+    <setting id="group_2_rss_9_enable" default="true">false</setting>
+    <setting id="group_2_rss_9_name" default="true" />
+    <setting id="group_2_rss_9_url" default="true" />
+    <setting id="group_2_rss_9_icon" default="true" />
+    <setting id="group_3_enable" default="true">false</setting>
+    <setting id="group_3_name" default="true">History, Politics &amp; Society</setting>
+    <setting id="group_3_rss_0_enable" default="true">false</setting>
+    <setting id="group_3_rss_0_name" default="true" />
+    <setting id="group_3_rss_0_url" default="true" />
+    <setting id="group_3_rss_0_icon" default="true" />
+    <setting id="group_3_rss_1_enable" default="true">false</setting>
+    <setting id="group_3_rss_1_name" default="true" />
+    <setting id="group_3_rss_1_url" default="true" />
+    <setting id="group_3_rss_1_icon" default="true" />
+    <setting id="group_3_rss_2_enable" default="true">false</setting>
+    <setting id="group_3_rss_2_name" default="true" />
+    <setting id="group_3_rss_2_url" default="true" />
+    <setting id="group_3_rss_2_icon" default="true" />
+    <setting id="group_3_rss_3_enable" default="true">false</setting>
+    <setting id="group_3_rss_3_name" default="true" />
+    <setting id="group_3_rss_3_url" default="true" />
+    <setting id="group_3_rss_3_icon" default="true" />
+    <setting id="group_3_rss_4_enable" default="true">false</setting>
+    <setting id="group_3_rss_4_name" default="true" />
+    <setting id="group_3_rss_4_url" default="true" />
+    <setting id="group_3_rss_4_icon" default="true" />
+    <setting id="group_3_rss_5_enable" default="true">false</setting>
+    <setting id="group_3_rss_5_name" default="true" />
+    <setting id="group_3_rss_5_url" default="true" />
+    <setting id="group_3_rss_5_icon" default="true" />
+    <setting id="group_3_rss_6_enable" default="true">false</setting>
+    <setting id="group_3_rss_6_name" default="true" />
+    <setting id="group_3_rss_6_url" default="true" />
+    <setting id="group_3_rss_6_icon" default="true" />
+    <setting id="group_3_rss_7_enable" default="true">false</setting>
+    <setting id="group_3_rss_7_name" default="true" />
+    <setting id="group_3_rss_7_url" default="true" />
+    <setting id="group_3_rss_7_icon" default="true" />
+    <setting id="group_3_rss_8_enable" default="true">false</setting>
+    <setting id="group_3_rss_8_name" default="true" />
+    <setting id="group_3_rss_8_url" default="true" />
+    <setting id="group_3_rss_8_icon" default="true" />
+    <setting id="group_3_rss_9_enable" default="true">false</setting>
+    <setting id="group_3_rss_9_name" default="true" />
+    <setting id="group_3_rss_9_url" default="true" />
+    <setting id="group_3_rss_9_icon" default="true" />
+    <setting id="group_4_enable" default="true">false</setting>
+    <setting id="group_4_name" default="true">Science &amp; Education</setting>
+    <setting id="group_4_rss_0_enable" default="true">false</setting>
+    <setting id="group_4_rss_0_name" default="true" />
+    <setting id="group_4_rss_0_url" default="true" />
+    <setting id="group_4_rss_0_icon" default="true" />
+    <setting id="group_4_rss_1_enable" default="true">false</setting>
+    <setting id="group_4_rss_1_name" default="true" />
+    <setting id="group_4_rss_1_url" default="true" />
+    <setting id="group_4_rss_1_icon" default="true" />
+    <setting id="group_4_rss_2_enable" default="true">false</setting>
+    <setting id="group_4_rss_2_name" default="true" />
+    <setting id="group_4_rss_2_url" default="true" />
+    <setting id="group_4_rss_2_icon" default="true" />
+    <setting id="group_4_rss_3_enable" default="true">false</setting>
+    <setting id="group_4_rss_3_name" default="true" />
+    <setting id="group_4_rss_3_url" default="true" />
+    <setting id="group_4_rss_3_icon" default="true" />
+    <setting id="group_4_rss_4_enable" default="true">false</setting>
+    <setting id="group_4_rss_4_name" default="true" />
+    <setting id="group_4_rss_4_url" default="true" />
+    <setting id="group_4_rss_4_icon" default="true" />
+    <setting id="group_4_rss_5_enable" default="true">false</setting>
+    <setting id="group_4_rss_5_name" default="true" />
+    <setting id="group_4_rss_5_url" default="true" />
+    <setting id="group_4_rss_5_icon" default="true" />
+    <setting id="group_4_rss_6_enable" default="true">false</setting>
+    <setting id="group_4_rss_6_name" default="true" />
+    <setting id="group_4_rss_6_url" default="true" />
+    <setting id="group_4_rss_6_icon" default="true" />
+    <setting id="group_4_rss_7_enable" default="true">false</setting>
+    <setting id="group_4_rss_7_name" default="true" />
+    <setting id="group_4_rss_7_url" default="true" />
+    <setting id="group_4_rss_7_icon" default="true" />
+    <setting id="group_4_rss_8_enable" default="true">false</setting>
+    <setting id="group_4_rss_8_name" default="true" />
+    <setting id="group_4_rss_8_url" default="true" />
+    <setting id="group_4_rss_8_icon" default="true" />
+    <setting id="group_4_rss_9_enable" default="true">false</setting>
+    <setting id="group_4_rss_9_name" default="true" />
+    <setting id="group_4_rss_9_url" default="true" />
+    <setting id="group_4_rss_9_icon" default="true" />
+    <setting id="group_5_enable" default="true">false</setting>
+    <setting id="group_5_name" default="true">Entertainment</setting>
+    <setting id="group_5_rss_0_enable" default="true">false</setting>
+    <setting id="group_5_rss_0_name" default="true" />
+    <setting id="group_5_rss_0_url" default="true" />
+    <setting id="group_5_rss_0_icon" default="true" />
+    <setting id="group_5_rss_1_enable" default="true">false</setting>
+    <setting id="group_5_rss_1_name" default="true" />
+    <setting id="group_5_rss_1_url" default="true" />
+    <setting id="group_5_rss_1_icon" default="true" />
+    <setting id="group_5_rss_2_enable" default="true">false</setting>
+    <setting id="group_5_rss_2_name" default="true" />
+    <setting id="group_5_rss_2_url" default="true" />
+    <setting id="group_5_rss_2_icon" default="true" />
+    <setting id="group_5_rss_3_enable" default="true">false</setting>
+    <setting id="group_5_rss_3_name" default="true" />
+    <setting id="group_5_rss_3_url" default="true" />
+    <setting id="group_5_rss_3_icon" default="true" />
+    <setting id="group_5_rss_4_enable" default="true">false</setting>
+    <setting id="group_5_rss_4_name" default="true" />
+    <setting id="group_5_rss_4_url" default="true" />
+    <setting id="group_5_rss_4_icon" default="true" />
+    <setting id="group_5_rss_5_enable" default="true">false</setting>
+    <setting id="group_5_rss_5_name" default="true" />
+    <setting id="group_5_rss_5_url" default="true" />
+    <setting id="group_5_rss_5_icon" default="true" />
+    <setting id="group_5_rss_6_enable" default="true">false</setting>
+    <setting id="group_5_rss_6_name" default="true" />
+    <setting id="group_5_rss_6_url" default="true" />
+    <setting id="group_5_rss_6_icon" default="true" />
+    <setting id="group_5_rss_7_enable" default="true">false</setting>
+    <setting id="group_5_rss_7_name" default="true" />
+    <setting id="group_5_rss_7_url" default="true" />
+    <setting id="group_5_rss_7_icon" default="true" />
+    <setting id="group_5_rss_8_enable" default="true">false</setting>
+    <setting id="group_5_rss_8_name" default="true" />
+    <setting id="group_5_rss_8_url" default="true" />
+    <setting id="group_5_rss_8_icon" default="true" />
+    <setting id="group_5_rss_9_enable" default="true">false</setting>
+    <setting id="group_5_rss_9_name" default="true" />
+    <setting id="group_5_rss_9_url" default="true" />
+    <setting id="group_5_rss_9_icon" default="true" />
+    <setting id="group_6_enable" default="true">false</setting>
+    <setting id="group_6_name" default="true">Arts &amp; Culture</setting>
+    <setting id="group_6_rss_0_enable" default="true">false</setting>
+    <setting id="group_6_rss_0_name" default="true" />
+    <setting id="group_6_rss_0_url" default="true" />
+    <setting id="group_6_rss_0_icon" default="true" />
+    <setting id="group_6_rss_1_enable" default="true">false</setting>
+    <setting id="group_6_rss_1_name" default="true" />
+    <setting id="group_6_rss_1_url" default="true" />
+    <setting id="group_6_rss_1_icon" default="true" />
+    <setting id="group_6_rss_2_enable" default="true">false</setting>
+    <setting id="group_6_rss_2_name" default="true" />
+    <setting id="group_6_rss_2_url" default="true" />
+    <setting id="group_6_rss_2_icon" default="true" />
+    <setting id="group_6_rss_3_enable" default="true">false</setting>
+    <setting id="group_6_rss_3_name" default="true" />
+    <setting id="group_6_rss_3_url" default="true" />
+    <setting id="group_6_rss_3_icon" default="true" />
+    <setting id="group_6_rss_4_enable" default="true">false</setting>
+    <setting id="group_6_rss_4_name" default="true" />
+    <setting id="group_6_rss_4_url" default="true" />
+    <setting id="group_6_rss_4_icon" default="true" />
+    <setting id="group_6_rss_5_enable" default="true">false</setting>
+    <setting id="group_6_rss_5_name" default="true" />
+    <setting id="group_6_rss_5_url" default="true" />
+    <setting id="group_6_rss_5_icon" default="true" />
+    <setting id="group_6_rss_6_enable" default="true">false</setting>
+    <setting id="group_6_rss_6_name" default="true" />
+    <setting id="group_6_rss_6_url" default="true" />
+    <setting id="group_6_rss_6_icon" default="true" />
+    <setting id="group_6_rss_7_enable" default="true">false</setting>
+    <setting id="group_6_rss_7_name" default="true" />
+    <setting id="group_6_rss_7_url" default="true" />
+    <setting id="group_6_rss_7_icon" default="true" />
+    <setting id="group_6_rss_8_enable" default="true">false</setting>
+    <setting id="group_6_rss_8_name" default="true" />
+    <setting id="group_6_rss_8_url" default="true" />
+    <setting id="group_6_rss_8_icon" default="true" />
+    <setting id="group_6_rss_9_enable" default="true">false</setting>
+    <setting id="group_6_rss_9_name" default="true" />
+    <setting id="group_6_rss_9_url" default="true" />
+    <setting id="group_6_rss_9_icon" default="true" />
+    <setting id="group_7_enable" default="true">false</setting>
+    <setting id="group_7_name" default="true">Movies &amp; Music</setting>
+    <setting id="group_7_rss_0_enable" default="true">false</setting>
+    <setting id="group_7_rss_0_name" default="true" />
+    <setting id="group_7_rss_0_url" default="true" />
+    <setting id="group_7_rss_0_icon" default="true" />
+    <setting id="group_7_rss_1_enable" default="true">false</setting>
+    <setting id="group_7_rss_1_name" default="true" />
+    <setting id="group_7_rss_1_url" default="true" />
+    <setting id="group_7_rss_1_icon" default="true" />
+    <setting id="group_7_rss_2_enable" default="true">false</setting>
+    <setting id="group_7_rss_2_name" default="true" />
+    <setting id="group_7_rss_2_url" default="true" />
+    <setting id="group_7_rss_2_icon" default="true" />
+    <setting id="group_7_rss_3_enable" default="true">false</setting>
+    <setting id="group_7_rss_3_name" default="true" />
+    <setting id="group_7_rss_3_url" default="true" />
+    <setting id="group_7_rss_3_icon" default="true" />
+    <setting id="group_7_rss_4_enable" default="true">false</setting>
+    <setting id="group_7_rss_4_name" default="true" />
+    <setting id="group_7_rss_4_url" default="true" />
+    <setting id="group_7_rss_4_icon" default="true" />
+    <setting id="group_7_rss_5_enable" default="true">false</setting>
+    <setting id="group_7_rss_5_name" default="true" />
+    <setting id="group_7_rss_5_url" default="true" />
+    <setting id="group_7_rss_5_icon" default="true" />
+    <setting id="group_7_rss_6_enable" default="true">false</setting>
+    <setting id="group_7_rss_6_name" default="true" />
+    <setting id="group_7_rss_6_url" default="true" />
+    <setting id="group_7_rss_6_icon" default="true" />
+    <setting id="group_7_rss_7_enable" default="true">false</setting>
+    <setting id="group_7_rss_7_name" default="true" />
+    <setting id="group_7_rss_7_url" default="true" />
+    <setting id="group_7_rss_7_icon" default="true" />
+    <setting id="group_7_rss_8_enable" default="true">false</setting>
+    <setting id="group_7_rss_8_name" default="true" />
+    <setting id="group_7_rss_8_url" default="true" />
+    <setting id="group_7_rss_8_icon" default="true" />
+    <setting id="group_7_rss_9_enable" default="true">false</setting>
+    <setting id="group_7_rss_9_name" default="true" />
+    <setting id="group_7_rss_9_url" default="true" />
+    <setting id="group_7_rss_9_icon" default="true" />
+    <setting id="group_8_enable" default="true">false</setting>
+    <setting id="group_8_name" default="true">Games &amp; hobbies</setting>
+    <setting id="group_8_rss_0_enable" default="true">false</setting>
+    <setting id="group_8_rss_0_name" default="true" />
+    <setting id="group_8_rss_0_url" default="true" />
+    <setting id="group_8_rss_0_icon" default="true" />
+    <setting id="group_8_rss_1_enable" default="true">false</setting>
+    <setting id="group_8_rss_1_name" default="true" />
+    <setting id="group_8_rss_1_url" default="true" />
+    <setting id="group_8_rss_1_icon" default="true" />
+    <setting id="group_8_rss_2_enable" default="true">false</setting>
+    <setting id="group_8_rss_2_name" default="true" />
+    <setting id="group_8_rss_2_url" default="true" />
+    <setting id="group_8_rss_2_icon" default="true" />
+    <setting id="group_8_rss_3_enable" default="true">false</setting>
+    <setting id="group_8_rss_3_name" default="true" />
+    <setting id="group_8_rss_3_url" default="true" />
+    <setting id="group_8_rss_3_icon" default="true" />
+    <setting id="group_8_rss_4_enable" default="true">false</setting>
+    <setting id="group_8_rss_4_name" default="true" />
+    <setting id="group_8_rss_4_url" default="true" />
+    <setting id="group_8_rss_4_icon" default="true" />
+    <setting id="group_8_rss_5_enable" default="true">false</setting>
+    <setting id="group_8_rss_5_name" default="true" />
+    <setting id="group_8_rss_5_url" default="true" />
+    <setting id="group_8_rss_5_icon" default="true" />
+    <setting id="group_8_rss_6_enable" default="true">false</setting>
+    <setting id="group_8_rss_6_name" default="true" />
+    <setting id="group_8_rss_6_url" default="true" />
+    <setting id="group_8_rss_6_icon" default="true" />
+    <setting id="group_8_rss_7_enable" default="true">false</setting>
+    <setting id="group_8_rss_7_name" default="true" />
+    <setting id="group_8_rss_7_url" default="true" />
+    <setting id="group_8_rss_7_icon" default="true" />
+    <setting id="group_8_rss_8_enable" default="true">false</setting>
+    <setting id="group_8_rss_8_name" default="true" />
+    <setting id="group_8_rss_8_url" default="true" />
+    <setting id="group_8_rss_8_icon" default="true" />
+    <setting id="group_8_rss_9_enable" default="true">false</setting>
+    <setting id="group_8_rss_9_name" default="true" />
+    <setting id="group_8_rss_9_url" default="true" />
+    <setting id="group_8_rss_9_icon" default="true" />
+    <setting id="group_9_enable" default="true">false</setting>
+    <setting id="group_9_name" default="true">Technology</setting>
+    <setting id="group_9_rss_0_enable" default="true">false</setting>
+    <setting id="group_9_rss_0_name" default="true" />
+    <setting id="group_9_rss_0_url" default="true" />
+    <setting id="group_9_rss_0_icon" default="true" />
+    <setting id="group_9_rss_1_enable" default="true">false</setting>
+    <setting id="group_9_rss_1_name" default="true" />
+    <setting id="group_9_rss_1_url" default="true" />
+    <setting id="group_9_rss_1_icon" default="true" />
+    <setting id="group_9_rss_2_enable" default="true">false</setting>
+    <setting id="group_9_rss_2_name" default="true" />
+    <setting id="group_9_rss_2_url" default="true" />
+    <setting id="group_9_rss_2_icon" default="true" />
+    <setting id="group_9_rss_3_enable" default="true">false</setting>
+    <setting id="group_9_rss_3_name" default="true" />
+    <setting id="group_9_rss_3_url" default="true" />
+    <setting id="group_9_rss_3_icon" default="true" />
+    <setting id="group_9_rss_4_enable" default="true">false</setting>
+    <setting id="group_9_rss_4_name" default="true" />
+    <setting id="group_9_rss_4_url" default="true" />
+    <setting id="group_9_rss_4_icon" default="true" />
+    <setting id="group_9_rss_5_enable" default="true">false</setting>
+    <setting id="group_9_rss_5_name" default="true" />
+    <setting id="group_9_rss_5_url" default="true" />
+    <setting id="group_9_rss_5_icon" default="true" />
+    <setting id="group_9_rss_6_enable" default="true">false</setting>
+    <setting id="group_9_rss_6_name" default="true" />
+    <setting id="group_9_rss_6_url" default="true" />
+    <setting id="group_9_rss_6_icon" default="true" />
+    <setting id="group_9_rss_7_enable" default="true">false</setting>
+    <setting id="group_9_rss_7_name" default="true" />
+    <setting id="group_9_rss_7_url" default="true" />
+    <setting id="group_9_rss_7_icon" default="true" />
+    <setting id="group_9_rss_8_enable" default="true">false</setting>
+    <setting id="group_9_rss_8_name" default="true" />
+    <setting id="group_9_rss_8_url" default="true" />
+    <setting id="group_9_rss_8_icon" default="true" />
+    <setting id="group_9_rss_9_enable" default="true">false</setting>
+    <setting id="group_9_rss_9_name" default="true" />
+    <setting id="group_9_rss_9_url" default="true" />
+    <setting id="group_9_rss_9_icon" default="true" />
+    <setting id="anchor" default="true">false</setting>
+    <setting id="limit_episodes" default="true">0</setting>
+</settings>
